@@ -28,7 +28,7 @@
         <mobile_picture/>
         <mobile_picture_type>use_desktop_picture</mobile_picture_type>
         <model/>
-        <name>test  catalog  item</name>
+        <name>test  catalog  item1</name>
         <no_attachment_v2>false</no_attachment_v2>
         <no_cart>false</no_cart>
         <no_cart_v2>false</no_cart_v2>
@@ -64,7 +64,7 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-11-09 06:21:18</sys_created_on>
         <sys_id>602bc0b5978f9110ea643c7e6253af1c</sys_id>
-        <sys_name>test  catalog  item</sys_name>
+        <sys_name>test  catalog  item1</sys_name>
         <sys_package display_value="test" source="x_511734_test">95b43e8097c35110ea643c7e6253afe2</sys_package>
         <sys_policy/>
         <sys_scope display_value="test">95b43e8097c35110ea643c7e6253afe2</sys_scope>
